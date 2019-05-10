@@ -4,7 +4,7 @@
 
 <img width="200" src="./static/logo.png"/>
 
-<h1 align="center">Raspberry Pi ile in-House Beacon</h1>
+<h1 align="center">Raspberry Pi ile RP Beacon Projesi</h1>
 
 </div>
 
@@ -21,9 +21,9 @@ Consider this: Smartphones differ from computers in that we typically carry them
 - Projeyi indirin
 
 ```sh
-git clone https://github.com/mesutpiskin/inhouse-beacon.git
+git clone https://github.com/mesutpiskin/raspberry-beacon.git
 ```
-- bağımlılıkları yükleyin
+- Paketleri yükleyin
 ```sh
  pip install -r requirements.txt
  ```
@@ -35,3 +35,8 @@ git clone https://github.com/mesutpiskin/inhouse-beacon.git
 python scan_ble_devices.py
 ```
 ***Raspberry Pi 3B üzerinde Python 2.x kullanarak test edilmiştir***
+
+
+### Sonuç
+
+<img  src="./static/result.jpg"/>

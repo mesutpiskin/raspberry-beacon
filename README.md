@@ -4,7 +4,7 @@ English | [Türkçe](./README.tr-TR.md)
 
 <img width="200" src="./static/logo.png"/>
 
-<h1 align="center">in-House Beacon Project with Raspberry Pi 3</h1>
+<h1 align="center">RP Beacon Project with Raspberry Pi 3</h1>
 
 </div>
 
@@ -22,9 +22,9 @@ Consider this: Smartphones differ from computers in that we typically carry them
 - Download or clone project
 
 ```sh
-git clone https://github.com/mesutpiskin/inhouse-beacon.git
+git clone https://github.com/mesutpiskin/raspberry-beacon.git
 ```
-- install  requirements
+- Install  requirements
 ```sh
  pip install -r requirements.txt
  ```
@@ -36,3 +36,8 @@ git clone https://github.com/mesutpiskin/inhouse-beacon.git
 python scan_ble_devices.py
 ```
 ***Tested on Python 2.x on Raspberry Pi 3B***
+
+
+### Result
+
+<img  src="./static/result.jpg"/>
